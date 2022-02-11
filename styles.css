@@ -85,6 +85,7 @@ input:focus{
 .msg {
   overflow: hidden;
   height: 0px;
+  padding: 0px 10px;
 }
 
 .div.error .msg {
